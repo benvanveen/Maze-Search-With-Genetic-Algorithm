@@ -1,3 +1,5 @@
+# Genetic Algorithm Maze Search Simulation
+
 ## Introduction:
 This repository contains the documents necicary to run the maze search and genetic algorithm simulation produced within Unity.
 
